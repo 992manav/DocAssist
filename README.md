@@ -42,4 +42,5 @@ https://github.com/user-attachments/assets/f7827b3d-9467-449d-a3e9-5a18ea6128e2
 ```bash
 git clone https://github.com/992manav/DocAssist.git
 
+docker-compose up --build -d
 
