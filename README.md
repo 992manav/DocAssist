@@ -2,7 +2,17 @@
 
 DocAssist is an AI-powered clinical assistant designed to provide doctors and healthcare professionals with instant access to patient data, slide-based document search, real-time medical guideline updates, and intelligent query assistance.
 
+DocAssist RAG is an AI-powered clinical assistant designed to provide doctors and healthcare professionals with instant access to patient data, slide-based document search, real-time medical guideline updates, and intelligent query assistance using Retrieval-Augmented Generation (RAG).
 
+📌 Features
+
+1. Real-Time Medical Knowledge & Second Opinions
+
+2. Smart Data Sync & Pathway Integration
+
+3. AI-Powered Decision Support
+
+4. Developer-Friendly API & UI
 
 
 https://github.com/user-attachments/assets/f7827b3d-9467-449d-a3e9-5a18ea6128e2
