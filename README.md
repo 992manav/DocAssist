@@ -2,6 +2,10 @@
 
 DocAssist is an AI-powered clinical assistant designed to provide doctors and healthcare professionals with instant access to patient data, slide-based document search, real-time medical guideline updates, and intelligent query assistance.
 
+
+https://github.com/user-attachments/assets/3db555ee-d6a4-4f91-b073-14571b8ebee1
+
+
 ## 📌 Features
 
 - **👨⚕ Patient Management**: View, update, and analyze patient vitals and medications.
